@@ -28,7 +28,7 @@ I enjoy learning new technologies, solving problems, and turning concepts into w
 
 ⚙️ Backend Development
 
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 "Express.js" (https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
 "REST API" (https://img.shields.io/badge/REST_APIs-6366F1?style=for-the-badge)
 
