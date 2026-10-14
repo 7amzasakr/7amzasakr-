@@ -24,13 +24,13 @@ I enjoy learning new technologies, solving problems, and turning concepts into w
 💻 Languages
 
 "JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+"C%23" (https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-⚙️ Backend Development
+⚙️ Backend
 
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 "Express.js" (https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
-"REST API" (https://img.shields.io/badge/REST_APIs-6366F1?style=for-the-badge)
 
 🗄️ Databases & ORMs
 
@@ -48,8 +48,7 @@ https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&l
 
 "Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 "GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+"VS_Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
 📌 Featured Projects
